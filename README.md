@@ -20,4 +20,4 @@ UI以外の全ての機能を実装しました。Processingで作成したア�
 GAS，Slack API，Processing
 
 ## 成果
-サポーターズ様主催のハッカソンにて努力賞を受賞しました．
+サポーターズ様主催のハッカソンで[努力賞](https://x.com/geek_pjt/status/1784515533351915998?s=46&t=UDJRHzDtPV0xjw48f__W4w)を受賞しました．
